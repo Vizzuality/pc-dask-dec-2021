@@ -1,0 +1,8 @@
+.env
+
+dask-worker-space
+.ipynb_checkpoints
+
+__pycache__
+.DS_store
+
